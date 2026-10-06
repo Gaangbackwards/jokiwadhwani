@@ -1,0 +1,6 @@
+{
+  "name": "Joki Wadhwani",
+  "description": "Website modern demo bertema jasa bantuan tugas Wadhwani untuk para pejuang deadline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
